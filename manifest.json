@@ -1,0 +1,36 @@
+{
+  "name": "技术咸鱼 ｜ oopanda",
+  "short_name": "技术咸鱼",
+  "description": "程序员和他的小bug.爱生活,爱coding.一个专注分享学习经验、记录开发问题的个人博客.",
+  "lang": "zh-CN",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#5c92d1",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/img/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/ico"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "关于我",
+      "short_name": "关于我",
+      "icons": [
+        {
+          "src": "https://dzzsbucket.oss-cn-shanghai.aliyuncs.com/avatar/avatar.png",
+          "sizes": "460x460",
+          "purpose": "maskable",
+          "type": "image/png"
+        }
+      ],
+      "url": "/about/",
+      "description": "关于我"
+    }
+  ]
+}

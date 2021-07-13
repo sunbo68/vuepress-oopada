@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>技术咸鱼 ｜ oopanda</title>
+        <link>https://www.pandajson.cn</link>
+        <description>程序员和他的小bug.爱生活,爱coding.一个专注分享学习经验、记录开发问题的个人博客.</description>
+        <lastBuildDate>Tue, 13 Jul 2021 04:52:11 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <atom:link href="https://www.pandajson.cn/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[屏蔽谷歌广告(Google Adsense)中VPN广告]]></title>
+            <link>https://www.pandajson.cn/pages/adc6f8/</link>
+            <guid>https://www.pandajson.cn/pages/adc6f8/</guid>
+            <pubDate>Sat, 22 May 2021 16:08:54 GMT</pubDate>
+            <enclosure url="https://cdn.jsdelivr.net/gh/oopanda-sun/images//logo/20210622160629.webp">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[你知道的越多，不知道的也就越多]]></title>
+            <link>https://www.pandajson.cn/pages/f2e63f/</link>
+            <guid>https://www.pandajson.cn/pages/f2e63f/</guid>
+            <pubDate>Wed, 06 May 2020 15:52:40 GMT</pubDate>
+            <description><![CDATA[不知道大家有没有发现，我们身边经常有这样的人，他们越是有能力的，越是有知识的，越是低调，越是谦逊，因为他们深知，知道的越多，不知道的也就越多。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[拥抱生活，拥抱快乐]]></title>
+            <link>https://www.pandajson.cn/pages/cd8bde/</link>
+            <guid>https://www.pandajson.cn/pages/cd8bde/</guid>
+            <pubDate>Fri, 26 Jun 2020 20:40:38 GMT</pubDate>
+            <description><![CDATA[生活在后现代的今天，很多人都有一种虚无感，认为人生没有意义。但是，人生不可能没有意义，因为当你认为没有意义的时候，一定有一个与之相对应的概念叫有意义。]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200626212238.webp">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Flutter的状态管理]]></title>
+            <link>https://www.pandajson.cn/pages/c29cc5/</link>
+            <guid>https://www.pandajson.cn/pages/c29cc5/</guid>
+            <pubDate>Thu, 20 May 2021 10:30:25 GMT</pubDate>
+            <description><![CDATA[随着Rect,Vue的普遍使用,响应式编程的理念也随之流行.不像在Android中的命令式编程,需要手动指定View展示.
+响应式编程的设计思路是数据和视图分离,由数据映射视图的渲染.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Java泛型总结]]></title>
+            <link>https://www.pandajson.cn/pages/bc58a0/</link>
+            <guid>https://www.pandajson.cn/pages/bc58a0/</guid>
+            <pubDate>Sun, 21 Apr 2019 21:30:25 GMT</pubDate>
+            <description><![CDATA[什么是Java泛型
+Java泛型(Java generic)是JDK 5引入的一个新特性.其本质就是参数化类型,也就是把数据类型视作为一个参数,在使用的时候再指定具体类型,这种参数化类型就是泛型.泛型可以用在类,接口,方法上,分别称之为泛型类,泛型接口,泛型方法.
+泛型的出现为程序员提供了一种编译时类型安全的监测机制,]]></description>
+            <enclosure url="https://blog-1300139959.cos.ap-shanghai.myqcloud.com/java/01/01.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[plugin-pwa]]></title>
+            <link>https://www.pandajson.cn/pages/23d9e6/</link>
+            <guid>https://www.pandajson.cn/pages/23d9e6/</guid>
+            <pubDate>Wed, 16 Jun 2021 11:23:07 GMT</pubDate>
+            <description><![CDATA[@vuepress/plugin-pwa
+作用:网页内容有更新的时候有刷新按钮,可以把网页保存到桌面，当一个app一样使用]]></description>
+        </item>
+        <item>
+            <title><![CDATA[plugin-google-analytics]]></title>
+            <link>https://www.pandajson.cn/pages/5cf70e/</link>
+            <guid>https://www.pandajson.cn/pages/5cf70e/</guid>
+            <pubDate>Tue, 16 Jun 2020 14:12:04 GMT</pubDate>
+            <description><![CDATA[@vuepress/plugin-google-analytics
+作用:集成谷歌统计,有效分析网站用户数据]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Django | 简介]]></title>
+            <link>https://www.pandajson.cn/note/django/</link>
+            <guid>https://www.pandajson.cn/note/django/</guid>
+            <pubDate>Fri, 04 Jun 2021 10:12:17 GMT</pubDate>
+            <description><![CDATA[Django简介
+背景介绍
+
+Django是一个python Web框架,最初被设计用于具有快速开发需求的新闻类站点,目的是要实现简单快捷的网站开发,于2008年发布第一个正式版本.]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/oopanda-sun/images//blog/20210618170255.webp">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Django | 创建项目]]></title>
+            <link>https://www.pandajson.cn/pages/fe4d82/</link>
+            <guid>https://www.pandajson.cn/pages/fe4d82/</guid>
+            <pubDate>Thu, 03 Jun 2021 11:04:18 GMT</pubDate>
+            <description><![CDATA[创建项目
+如果这是你第一次使用 Django 的话，你需要一些初始化设置,也就是说，你需要用一些自动生成的代码配置一个 Django project —— 即一个 Django 项目实例需要的设置项集合，包括数据库配置、Django 配置和应用程序配置]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Django | 搭建开发环境]]></title>
+            <link>https://www.pandajson.cn/pages/6009aa/</link>
+            <guid>https://www.pandajson.cn/pages/6009aa/</guid>
+            <pubDate>Thu, 03 Jun 2021 11:04:41 GMT</pubDate>
+            <description><![CDATA[创建虚拟环境
+安装virtualenv
+pip install virtualenv]]></description>
+        </item>
+        <item>
+            <title><![CDATA[VuePress | 介绍]]></title>
+            <link>https://www.pandajson.cn/note/vuepress/</link>
+            <guid>https://www.pandajson.cn/note/vuepress/</guid>
+            <pubDate>Wed, 16 Jun 2021 15:54:00 GMT</pubDate>
+            <description><![CDATA[- 容易上手
+> - 更好的兼容、扩展 Markdown 语法
+> - 响应式布局，PC端、手机端
+> - 支持 PWA
+> - 支持插件拓展功能
+> - 支持Vue语法]]></description>
+        </item>
+        <item>
+            <title><![CDATA[VuePress | 常用插件]]></title>
+            <link>https://www.pandajson.cn/vuepress-plugin/</link>
+            <guid>https://www.pandajson.cn/vuepress-plugin/</guid>
+            <pubDate>Wed, 16 Jun 2021 11:46:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[VuePress | SEO优化]]></title>
+            <link>https://www.pandajson.cn/pages/a669f9/</link>
+            <guid>https://www.pandajson.cn/pages/a669f9/</guid>
+            <pubDate>Tue, 15 Jun 2021 14:12:25 GMT</pubDate>
+            <description><![CDATA[在SEO之前,我们可以通过前端性能监控平台 ,了解下自己网站的性能问题.]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/oopanda-sun/images//blog/20210618165600.webp">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[VuePress | 使用ElementUI]]></title>
+            <link>https://www.pandajson.cn/pages/7edafa/</link>
+            <guid>https://www.pandajson.cn/pages/7edafa/</guid>
+            <pubDate>Sat, 12 Jun 2021 23:53:40 GMT</pubDate>
+            <description><![CDATA[│   │   ├── public (可选的)
+│   │   ├── styles (可选的)
+│   │   │   ├── index.styl
+│   │   │   └── palette.styl
+│   │   ├── templates (可选的, 谨慎配置)
+│   │   │   ├── dev.html
+│   │   │   └── ssr.html
+│   │   ├── config.js (可选的)
+│   │   └── enhanceApp.js (可选的)
+│   │
+│   ├── README.md
+│   ├── guide
+│   │   └── README.md
+│   └── config.md
+│
+└── package.json]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ubuntu创建子账户]]></title>
+            <link>https://www.pandajson.cn/pages/9f8acb/</link>
+            <guid>https://www.pandajson.cn/pages/9f8acb/</guid>
+            <pubDate>Sat, 25 May 2019 16:23:08 GMT</pubDate>
+            <description><![CDATA[sudo su根据提示输入用户名,密码,登录.
+可以看到新用户xxx所在的目录默认是/home/xxx]]></description>
+        </item>
+        <item>
+            <title><![CDATA[YAMLException]]></title>
+            <link>https://www.pandajson.cn/pages/56bbec/</link>
+            <guid>https://www.pandajson.cn/pages/56bbec/</guid>
+            <pubDate>Thu, 03 Jun 2021 11:12:40 GMT</pubDate>
+            <description><![CDATA[出现情景
+最近在书写博客的时候出现了一个YAMLException异常,]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/oopanda-sun/images//blog/20210618170012.webp">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[处理IP恶意的访问]]></title>
+            <link>https://www.pandajson.cn/pages/71d0b9/</link>
+            <guid>https://www.pandajson.cn/pages/71d0b9/</guid>
+            <pubDate>Wed, 26 May 2021 10:13:05 GMT</pubDate>
+            <description><![CDATA[提示
+下文的操作均在ubuntu上进行.
+
+背景
+最近刚把腾讯云服务器搭建好,就发现访问时间异常的长,觉得不应该呀,意识到可能是服务器遭受到攻击.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[无法获取BuglyFileProvider]]></title>
+            <link>https://www.pandajson.cn/pages/f10228/</link>
+            <guid>https://www.pandajson.cn/pages/f10228/</guid>
+            <pubDate>Wed, 09 Jun 2021 16:16:14 GMT</pubDate>
+            <description><![CDATA[出现情景
+项目本来运行好好的,周末回来再运行报了个错误.
+java.lang.RuntimeException: Unable to get provider : java.lang.ClassNotFoundException: Didn't find class &quot;com.tencent.bugly.beta.utils.BuglyFileProvider&quot; on path: DexPathList[[dex file]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/oopanda-sun/images//blog/20210618165750.webp">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[selenium启动Safari浏览器错误]]></title>
+            <link>https://www.pandajson.cn/pages/76005b/</link>
+            <guid>https://www.pandajson.cn/pages/76005b/</guid>
+            <pubDate>Sun, 06 Jun 2021 16:27:13 GMT</pubDate>
+            <description><![CDATA[出现情景
+使用selenium在启动Safari浏览器爬虫时候出现]]></description>
+            <enclosure url="https://cdn.jsdelivr.net/gh/oopanda-sun/images//blog/20210618170403.webp">
+            </enclosure>
+        </item>
+    </channel>
+</rss>
